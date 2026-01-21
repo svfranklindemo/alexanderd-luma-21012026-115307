@@ -1,20 +1,16 @@
 {
   "mappings": [
-    "/content/luma3/language-masters/en:/",
-    "/content/luma3/language-masters/en/:/en/",
-    "/content/luma3/language-masters/fr/:/fr/",
-    "/content/luma3/language-masters/fr:/fr",
-    "/content/luma3/language-masters/es/:/es/",
-    "/content/luma3/language-masters/es:/es",
-    "/content/luma3/language-masters/ja/:/ja/",
-    "/content/luma3/language-masters/ja:/ja",
-    "/content/luma3/language-masters/de/:/de/",
-    "/content/luma3/language-masters/de:/de",
-    "/content/luma3/configuration:/.helix/config.json",
-    "/content/luma3/metadata:/metadata.json",
-    "/content/luma3/redirects:/redirects.json",
-    "/content/luma3/placeholders:/placeholders.json",
-    "/content/luma3/custom-events:/custom-events.json"
+    "/content/alexanderd-Projects/language-masters/en:/",
+    "/content/alexanderd-Projects/language-masters/en/:/",
+    "/content/alexanderd-Projects/language-masters/en/:/en/",
+    "/content/alexanderd-Projects/configuration:/.helix/config.json",
+    "/content/alexanderd-Projects/metadata:/metadata.json",
+    "/content/alexanderd-Projects/redirects:/redirects.json",
+    "/content/alexanderd-Projects/placeholders:/placeholders.json",
+    "/content/alexanderd-Projects/custom-events:/custom-events.json"
   ],
-  "includes": ["/content/luma3/", "/content/dam/luma3/"]
+  "includes": [
+    "/content/alexanderd-Projects/",
+    "/content/dam/alexanderd-Projects/"
+  ]
 }
